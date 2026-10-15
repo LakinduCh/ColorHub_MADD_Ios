@@ -4,7 +4,7 @@ Turn any photo into a colour palette. Color Hub finds the main colours in a pict
 
 > SE4041 Mobile Application Design and Development, Assignment 02, Part A
 
-**Author:** _Your Name_ (_Your Student ID_)
+**Author:**  _B W C L Withanage_ (_IT23403260_)
 **Platform:** iOS 17.0 or later (SwiftUI)
 **Repository:** https://github.com/LakinduCh/ColorHub_MADD_Ios
 
@@ -137,12 +137,6 @@ Color hub/
 
 - No third-party libraries are used; only Apple frameworks (SwiftUI, SwiftData, Vision, PhotosUI).
 - AI assistance (Claude) was used during development. Prompts, responses and how they helped are documented in the report.
-
----
-
-## Screenshots
-
-_Add screenshots here (Capture, Result, Library, Dark Mode)._
 
 ---
 
